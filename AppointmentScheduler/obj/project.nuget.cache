@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sG22YHI6RfY=",
+  "dgSpecHash": "7/Bvef3Zhcg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj",
+  "projectFilePath": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\99pko\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\99pko\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

@@ -32,14 +32,14 @@ namespace AppointmentScheduler.Controllers
             {
                 return BadRequest();
             }
-            _appointmentService.CreateAppointment(dto, userIdClaim);
+            _appointmentService.CreateAppointment(dto);
             return Ok();
         }
 
         [HttpDelete("{id}")]
         public ActionResult DeleteAppointment([FromRoute] int id)
         {
-            _appointmentService.DeleteAppointment(id, User);
+            _appointmentService.DeleteAppointment(id);
             return NoContent();
         }
 

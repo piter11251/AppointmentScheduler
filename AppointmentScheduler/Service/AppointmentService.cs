@@ -16,37 +16,39 @@ namespace AppointmentScheduler.Service
         private readonly IMapper _mapper;
         private readonly IHttpContextAccessor _httpContextAccessor;
         private readonly IAuthorizationService _authorizationService;
-        public AppointmentService(AppointmentSchedulerDbContext dbContext, IMapper mapper, IHttpContextAccessor httpContextAccessor, IAuthorizationService authorizationService)
+        private readonly IUserContextService _userContextService;
+        public AppointmentService(AppointmentSchedulerDbContext dbContext, IMapper mapper, IHttpContextAccessor httpContextAccessor, IAuthorizationService authorizationService, IUserContextService userContextService)
         {
             _dbContext = dbContext;
             _mapper = mapper;
             _httpContextAccessor = httpContextAccessor;
             _authorizationService = authorizationService;
+            _userContextService = userContextService;
         }
         public IEnumerable<AppointmentDto> GetAll()
         {
             var appointments = _dbContext.Appointments
-                .Include(a => a.User).ToList();
+                .Include(a => a.User).Where(b => b.UserId == _userContextService.GetUserId).ToList();
             var appointmentsDto = _mapper.Map<List<AppointmentDto>>(appointments);
             return appointmentsDto;
         }
 
-        public void CreateAppointment(CreateAppointmentDto dto, int userIdClaim)
+        public void CreateAppointment(CreateAppointmentDto dto)
         {
             var appointment = _mapper.Map<Appointment>(dto);
-            appointment.UserId = userIdClaim;
+            appointment.UserId = (int)_userContextService.GetUserId;
             _dbContext.Appointments.Add(appointment);
             _dbContext.SaveChanges();
         }
 
-        public bool DeleteAppointment(int id, ClaimsPrincipal user)
+        public bool DeleteAppointment(int id)
         {
             var appointment = _dbContext.Appointments.FirstOrDefault(a => a.Id == id);
             if(appointment == null)
             {
                 throw new NotFoundException("Restaurant not found");
             }
-            var authorizationResult = _authorizationService.AuthorizeAsync(user, appointment, new ResourceOperationRequirement(ResourceOperation.Delete)).Result;
+            var authorizationResult = _authorizationService.AuthorizeAsync(_userContextService.User, appointment, new ResourceOperationRequirement(ResourceOperation.Delete)).Result;
             if(!authorizationResult.Succeeded)
             {
                 throw new ForbidException();

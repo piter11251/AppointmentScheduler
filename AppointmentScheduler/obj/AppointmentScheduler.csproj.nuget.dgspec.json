@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj": {}
+    "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj": {
+    "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj",
+        "projectUniqueName": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj",
         "projectName": "AppointmentScheduler",
-        "projectPath": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj",
+        "projectPath": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj",
         "packagesPath": "C:\\Users\\99pko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\obj\\",
+        "outputPath": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\99pko\\AppData\\Roaming\\NuGet\\NuGet.Config",

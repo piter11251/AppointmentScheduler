@@ -1,69 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\",
+  "WorkspaceRootPath": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\models\\createappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\models\\createappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\authorization\\resourceoperationrequirementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\authorization\\resourceoperationrequirementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\service\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\service\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\service\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\appointmentscheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\service\\usercontextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\service\\usercontextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\service\\iusercontextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\service\\iusercontextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\models\\createappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\models\\createappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\authorization\\resourceoperationrequirementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\authorization\\resourceoperationrequirementhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\appointmentscheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\appointmentscheduler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\service\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\service\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\service\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\exceptions\\forbidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\exceptions\\forbidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\exceptions\\forbidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\authorization\\resourceoperationrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\authorization\\resourceoperationrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\authorization\\resourceoperationrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\service\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\models\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\models\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\models\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\source\\repos\\appointmentscheduler\\appointmentscheduler\\models\\validators\\registeruserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|c:\\users\\99pko\\documents\\github\\appointmentscheduler\\appointmentscheduler\\models\\validators\\registeruserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBEB090-DBF4-4BFB-A2BF-14855B617A63}|AppointmentScheduler\\AppointmentScheduler.csproj|solutionrelative:appointmentscheduler\\models\\validators\\registeruserdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,102 +90,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppointmentService.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Service\\AppointmentService.cs",
-              "RelativeDocumentMoniker": "AppointmentScheduler\\Service\\AppointmentService.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Service\\AppointmentService.cs",
-              "RelativeToolTip": "AppointmentScheduler\\Service\\AppointmentService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowDMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:42:50.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResourceOperationRequirementHandler.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Authorization\\ResourceOperationRequirementHandler.cs",
-              "RelativeDocumentMoniker": "AppointmentScheduler\\Authorization\\ResourceOperationRequirementHandler.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Authorization\\ResourceOperationRequirementHandler.cs",
-              "RelativeToolTip": "AppointmentScheduler\\Authorization\\ResourceOperationRequirementHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T10:01:02.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "AppointmentScheduler\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "AppointmentScheduler\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAIwCEAAAAAAAAA",
+              "Title": "IUserContextService.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Service\\IUserContextService.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler\\Service\\IUserContextService.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Service\\IUserContextService.cs",
+              "RelativeToolTip": "AppointmentScheduler\\Service\\IUserContextService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:34:56.096Z",
+              "WhenOpened": "2024-07-31T11:41:09.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "UserContextService.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Service\\UserContextService.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler\\Service\\UserContextService.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Service\\UserContextService.cs",
+              "RelativeToolTip": "AppointmentScheduler\\Service\\UserContextService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:38:16.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AppointmentController.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Controllers\\AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Controllers\\AppointmentController.cs",
               "RelativeDocumentMoniker": "AppointmentScheduler\\Controllers\\AppointmentController.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Controllers\\AppointmentController.cs",
               "RelativeToolTip": "AppointmentScheduler\\Controllers\\AppointmentController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAuwCwAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA0wBoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T05:37:43.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Middleware\\ErrorHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "AppointmentScheduler\\Middleware\\ErrorHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Middleware\\ErrorHandlingMiddleware.cs",
-              "RelativeToolTip": "AppointmentScheduler\\Middleware\\ErrorHandlingMiddleware.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAA9wBUAAAANAAAA",
+              "DocumentIndex": 11,
+              "Title": "AppointmentScheduler.csproj",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj",
+              "RelativeDocumentMoniker": "AppointmentScheduler\\AppointmentScheduler.csproj",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj",
+              "RelativeToolTip": "AppointmentScheduler\\AppointmentScheduler.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T09:44:42.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Program.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler\\Program.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Program.cs",
+              "RelativeToolTip": "AppointmentScheduler\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAUwDkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:15:21.131Z",
+              "WhenOpened": "2024-07-31T05:51:46.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Service\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler\\Service\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Service\\AppointmentService.cs",
+              "RelativeToolTip": "AppointmentScheduler\\Service\\AppointmentService.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:42:50.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Service\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler\\Service\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Service\\IAppointmentService.cs",
+              "RelativeToolTip": "AppointmentScheduler\\Service\\IAppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:03:12.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AppointmentScheduler\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:34:56.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AppointmentScheduler",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj",
-              "RelativeDocumentMoniker": "AppointmentScheduler\\AppointmentScheduler.csproj",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\AppointmentScheduler.csproj",
-              "RelativeToolTip": "AppointmentScheduler\\AppointmentScheduler.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-31T09:44:42.309Z",
-              "EditorCaption": ""
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "AppointmentScheduler\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA9wBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:15:21.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "ResourceOperationRequirementHandler.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Authorization\\ResourceOperationRequirementHandler.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler\\Authorization\\ResourceOperationRequirementHandler.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Authorization\\ResourceOperationRequirementHandler.cs",
+              "RelativeToolTip": "AppointmentScheduler\\Authorization\\ResourceOperationRequirementHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:01:02.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ForbidException.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Exceptions\\ForbidException.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Exceptions\\ForbidException.cs",
               "RelativeDocumentMoniker": "AppointmentScheduler\\Exceptions\\ForbidException.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Exceptions\\ForbidException.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Exceptions\\ForbidException.cs",
               "RelativeToolTip": "AppointmentScheduler\\Exceptions\\ForbidException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T10:16:39.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T10:16:39.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "CreateAppointmentDto.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Models\\CreateAppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Models\\CreateAppointmentDto.cs",
               "RelativeDocumentMoniker": "AppointmentScheduler\\Models\\CreateAppointmentDto.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Models\\CreateAppointmentDto.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Models\\CreateAppointmentDto.cs",
               "RelativeToolTip": "AppointmentScheduler\\Models\\CreateAppointmentDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,107 +242,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Program.cs",
-              "RelativeDocumentMoniker": "AppointmentScheduler\\Program.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Program.cs",
-              "RelativeToolTip": "AppointmentScheduler\\Program.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAUwC4AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:51:46.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Exceptions\\NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "AppointmentScheduler\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Exceptions\\NotFoundException.cs",
               "RelativeToolTip": "AppointmentScheduler\\Exceptions\\NotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T11:10:45.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Service\\IAccountService.cs",
-              "RelativeDocumentMoniker": "AppointmentScheduler\\Service\\IAccountService.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Service\\IAccountService.cs",
-              "RelativeToolTip": "AppointmentScheduler\\Service\\IAccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T07:32:21.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IAppointmentService.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Service\\IAppointmentService.cs",
-              "RelativeDocumentMoniker": "AppointmentScheduler\\Service\\IAppointmentService.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Service\\IAppointmentService.cs",
-              "RelativeToolTip": "AppointmentScheduler\\Service\\IAppointmentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T06:03:12.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T11:10:45.095Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ResourceOperationRequirement.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Authorization\\ResourceOperationRequirement.cs",
-              "RelativeDocumentMoniker": "AppointmentScheduler\\Authorization\\ResourceOperationRequirement.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Authorization\\ResourceOperationRequirement.cs",
-              "RelativeToolTip": "AppointmentScheduler\\Authorization\\ResourceOperationRequirement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Service\\IAccountService.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler\\Service\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Service\\IAccountService.cs",
+              "RelativeToolTip": "AppointmentScheduler\\Service\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:45:45.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RegisterUserDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Models\\Validators\\RegisterUserDtoValidator.cs",
-              "RelativeDocumentMoniker": "AppointmentScheduler\\Models\\Validators\\RegisterUserDtoValidator.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Models\\Validators\\RegisterUserDtoValidator.cs",
-              "RelativeToolTip": "AppointmentScheduler\\Models\\Validators\\RegisterUserDtoValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:31:34.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Service\\AccountService.cs",
-              "RelativeDocumentMoniker": "AppointmentScheduler\\Service\\AccountService.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Service\\AccountService.cs",
-              "RelativeToolTip": "AppointmentScheduler\\Service\\AccountService.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAowDgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:34:13.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T07:32:21.988Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "ResourceOperationRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Authorization\\ResourceOperationRequirement.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler\\Authorization\\ResourceOperationRequirement.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Authorization\\ResourceOperationRequirement.cs",
+              "RelativeToolTip": "AppointmentScheduler\\Authorization\\ResourceOperationRequirement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:45:45.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterUserDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Models\\Validators\\RegisterUserDtoValidator.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler\\Models\\Validators\\RegisterUserDtoValidator.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Models\\Validators\\RegisterUserDtoValidator.cs",
+              "RelativeToolTip": "AppointmentScheduler\\Models\\Validators\\RegisterUserDtoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:31:34.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Service\\AccountService.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler\\Service\\AccountService.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Service\\AccountService.cs",
+              "RelativeToolTip": "AppointmentScheduler\\Service\\AccountService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:34:13.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "RegisterUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Models\\RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Models\\RegisterUserDto.cs",
               "RelativeDocumentMoniker": "AppointmentScheduler\\Models\\RegisterUserDto.cs",
-              "ToolTip": "C:\\Users\\99pko\\source\\repos\\AppointmentScheduler\\AppointmentScheduler\\Models\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\99pko\\Documents\\GitHub\\AppointmentScheduler\\AppointmentScheduler\\Models\\RegisterUserDto.cs",
               "RelativeToolTip": "AppointmentScheduler\\Models\\RegisterUserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T09:31:36.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T09:31:36.739Z"
             }
           ]
         }

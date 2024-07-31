@@ -7,8 +7,8 @@ namespace AppointmentScheduler.Service
     public interface IAppointmentService
     {
         IEnumerable<AppointmentDto> GetAll();
-        void CreateAppointment(CreateAppointmentDto dto, int userIdClaim);
-        bool DeleteAppointment(int id, ClaimsPrincipal user);
+        void CreateAppointment(CreateAppointmentDto dto);
+        bool DeleteAppointment(int id);
         Task<List<AppointmentDto>> GetAppointmentsByDate(DateTime date);
     }
 }
