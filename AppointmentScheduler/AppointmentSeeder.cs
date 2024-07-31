@@ -17,10 +17,10 @@ namespace AppointmentScheduler
                 {
                     var user = new User()
                     {
-                        Email = "99.pkozlowski@gmail.com",
+                        Email = "test@gmail.com",
                         Password = "password",
-                        FirstName = "Piotr",
-                        LastName = "Kozlowski"
+                        FirstName = "P",
+                        LastName = "K"
                     };
 
                     _dbContext.Users.Add(user);
